@@ -1,11 +1,11 @@
 {
-  "version": "1.7.27",
-  "notes": "桌面端 v1.7.27：updater 备源切换云端 api.iceclaws.cn（原 NAS 局域网地址不可达）",
-  "pub_date": "2026-10-01T13:00:00Z",
+  "version": "1.7.29",
+  "notes": "桌面端 v1.7.29：api.iceclaws.cn 全 HTTPS 443（阿里云免费证书）+ P0-2 人在环确认",
+  "pub_date": "2026-10-01T15:40:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0FkOGJuRk9rRWpjelJWRmFxUVNZa1hBQjFMR2hhdCtINGRwSXhFaXZ3L1Y5TlBJWHFBaFVFZXpzSGY5ODVwTWh0N0VLa3hWaldkSTJSdFVpRTZZSVRVYWZhdHZxL2dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwODU0NDc1CWZpbGU6SWNlY2xhd18xLjcuMjdfeDY0LXNldHVwLmV4ZQpOcFVtN28wZTFSNnh3RkxqMHZNeG9IY0NaY3VueXMzMnhpUk9pN0tzdFVndG95ZFhSMDZzL0tiTHZ0ejdHK0l3SFJqZjYxbUpzM0NXOUdaQkNlVVhCdz09Cg==",
-      "url": "https://ghfast.top/https://github.com/ice511/iceclaw-releases/releases/download/v1.7.27/Iceclaw_1.7.27_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0FkOGJuRk9rRWpiVWdtSm52SUZKY2VJdEpuc04zWlZGRlpVMzJqTFlCOFlGQTh0ZDRLblkzZnRvYllxdWgxVWUrandJdVRabjlsUGNubElmWVpGMytxTG5RTUR5S0FjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwODY5MDc2CWZpbGU6SWNlY2xhd18xLjcuMjlfeDY0LXNldHVwLmV4ZQpaZW5uTnAyOFU5d0NLNFhEWUFFN3NGdnRxYW5nL0h5WHRwTjRzMkptc051ZWlzbzVweHhCTWhKQm1tU0YrSGJlbEV5NzdCRFNLMi9GR2lHVWhPeDNEZz09Cg==",
+      "url": "https://ghfast.top/https://github.com/ice511/iceclaw-releases/releases/download/v1.7.29/Iceclaw_1.7.29_x64-setup.exe"
     }
   }
 }
