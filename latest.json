@@ -1,11 +1,11 @@
 {
-  "version": "1.7.25",
-  "notes": "豆包式软登录：游客可聊天+AI提示登录，点击其他功能弹登录窗；登录后3天断网可用",
-  "pub_date": "2026-10-01T10:30:00Z",
+  "version": "1.7.26",
+  "notes": "桌面端 v1.7.26：ACCOUNT_BASE 切换到公网域名 api.iceclaws.cn（阿里云 ECS），官网 iceclaws.cn 上线",
+  "pub_date": "2026-10-01T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0FkOGJuRk9rRXMrbTAzWTF5bk5oWFkya2ViYVlWclhpaGdsaDZwYkRUa3ovcG9ZbFVsVVBxVlZCRzJzOWJhbGl3SGViKzBwVDQxV0h6aU82WEUvTXdZRTlpeDZWUHd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwODQ4MzY4CWZpbGU6SWNlY2xhd18xLjcuMjVfeDY0LXNldHVwLmV4ZQpZVDFyZ2ZnOXFxZGdDQVFhc0pOd0VnU1U3czVUWnVtMnNvUXhRQkJVM3J0NWc3c09JanFnelVPSW1ROHVPU2pkKzFreW9odk9UdElBZ0RFdFM5OU5CUT09Cg==",
-      "url": "https://ghfast.top/https://github.com/ice511/iceclaw-releases/releases/download/v1.7.25/Iceclaw_1.7.25_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0FkOGJuRk9rRXVwUTd4RzVrak5zUTJGREIycytGMEo5K0ZTYnZzN2Q4T1EwN244bDJ3N3NlQlhVRkFKK3g3aStJV0UxWjMyYktqMFdpWDJLZkd2M25ZODc5MFRiNGdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwODUzMzg0CWZpbGU6SWNlY2xhd18xLjcuMjZfeDY0LXNldHVwLmV4ZQpaR00vVy9yZm40YVV0Sm43aWx3ZmxFVThkZW1QTzh0OHRwRzdTcHlaWDBJSitRRmpUZ2RqekNRcXhMNmI4L2wrc0Rpamp4elJvNEVTTVJIWHhDUmlCdz09Cg==",
+      "url": "https://ghfast.top/https://github.com/ice511/iceclaw-releases/releases/download/v1.7.26/Iceclaw_1.7.26_x64-setup.exe"
     }
   }
 }
