@@ -1,11 +1,11 @@
 {
-  "version": "1.7.29",
-  "notes": "桌面端 v1.7.29：api.iceclaws.cn 全 HTTPS 443（阿里云免费证书）+ P0-2 人在环确认",
-  "pub_date": "2026-10-01T15:40:00Z",
+  "version": "1.7.30",
+  "notes": "桌面端 v1.7.30：修复版本显示链路（绿泡点击弹更新/设置页真实版本）+ 模型智能自动云端闭环 + 引擎黑框消除 + 全局对话改名 + 任务栏图标/悬浮球快捷键",
+  "pub_date": "2026-10-02T04:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0FkOGJuRk9rRWpiVWdtSm52SUZKY2VJdEpuc04zWlZGRlpVMzJqTFlCOFlGQTh0ZDRLblkzZnRvYllxdWgxVWUrandJdVRabjlsUGNubElmWVpGMytxTG5RTUR5S0FjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwODY5MDc2CWZpbGU6SWNlY2xhd18xLjcuMjlfeDY0LXNldHVwLmV4ZQpaZW5uTnAyOFU5d0NLNFhEWUFFN3NGdnRxYW5nL0h5WHRwTjRzMkptc051ZWlzbzVweHhCTWhKQm1tU0YrSGJlbEV5NzdCRFNLMi9GR2lHVWhPeDNEZz09Cg==",
-      "url": "https://ghfast.top/https://github.com/ice511/iceclaw-releases/releases/download/v1.7.29/Iceclaw_1.7.29_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0FkOGJuRk9rRXJnY0hIZ0twc3M1QzZSQWJHNTJIb0w4THFYc3k4Z3lLbU41OEk3MnNuWDlMemFycUc3MHgyQ1V4M2V1MjIwWmxjZXVYUVRvaGxRbC9yUURHcVI5Y0FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwODc1MTQyCWZpbGU6SWNlY2xhd18xLjcuMzBfeDY0LXNldHVwLmV4ZQpJZ3MzNWhST2xBRmUyZVBEcE8yRGlQWGZ1Y3MxM25HcXlnQVFMSEJnY1liM0ZQaWJYWkNFbDV2TmF5TXFIbGFLcjNadHN3UG1KYXVqaHJuRXhDZ3VEZz09Cg==",
+      "url": "https://github.com/ice511/iceclaw-releases/releases/download/v1.7.30/Iceclaw_1.7.30_x64-setup.exe"
     }
   }
 }
