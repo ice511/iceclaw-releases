@@ -1,11 +1,11 @@
 {
-  "version": "1.7.24",
-  "notes": "双源 OTA：GitHub 主源 + NAS 备用（Tauri endpoints 自动切换）；含 1.7.23 全部能力",
-  "pub_date": "2026-10-01T09:00:00Z",
+  "version": "1.7.25",
+  "notes": "豆包式软登录：游客可聊天+AI提示登录，点击其他功能弹登录窗；登录后3天断网可用",
+  "pub_date": "2026-10-01T10:30:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0FkOGJuRk9rRXN4QWlJcnFQS2k0bWc3SXJZOExxaHdGZjREdHk1dU9jVExLajdhcHFDaDEydUxCMzQrNjRXNE1hZi94U2FXeGVtaFFTb0lGWGVYK3hFa1dTS3dSRUFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwODQwNjE4CWZpbGU6SWNlY2xhd18xLjcuMjRfeDY0LXNldHVwLmV4ZQowK09jVFFiQzFUVy9YRFRta2c2aFVsSGlYTzhSS001SzQyTkU4RWhGUjljcmRnV3d0TG9Gc3V6NWl1SW1uWnp4eDlRMXhjSXFIT29wdTkyMnhadnpBZz09Cg==",
-      "url": "https://ghfast.top/https://github.com/ice511/iceclaw-releases/releases/download/v1.7.24/Iceclaw_1.7.24_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0FkOGJuRk9rRXMrbTAzWTF5bk5oWFkya2ViYVlWclhpaGdsaDZwYkRUa3ovcG9ZbFVsVVBxVlZCRzJzOWJhbGl3SGViKzBwVDQxV0h6aU82WEUvTXdZRTlpeDZWUHd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwODQ4MzY4CWZpbGU6SWNlY2xhd18xLjcuMjVfeDY0LXNldHVwLmV4ZQpZVDFyZ2ZnOXFxZGdDQVFhc0pOd0VnU1U3czVUWnVtMnNvUXhRQkJVM3J0NWc3c09JanFnelVPSW1ROHVPU2pkKzFreW9odk9UdElBZ0RFdFM5OU5CUT09Cg==",
+      "url": "https://ghfast.top/https://github.com/ice511/iceclaw-releases/releases/download/v1.7.25/Iceclaw_1.7.25_x64-setup.exe"
     }
   }
 }
