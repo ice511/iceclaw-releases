@@ -1,0 +1,11 @@
+{
+  "version": "1.7.23",
+  "notes": "云端大模型接入：豆包 Doubao-Seed-2.1-lite 流式对话；方舟 v3 URL 适配；模式标签与引擎一致",
+  "pub_date": "2026-10-01T08:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0FkOGJuRk9rRXRZeE44bjhkYno2dndEeGhhQkI5aVFIaFZnYnhWckRaZWQ2WVE1VUExdy9hT1kwbkh5OGcxd2JFWDA1ckZWY1dzcHg3ZWFWTnQyckhTUCtWaFBqNndNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwODI1NDc4CWZpbGU6SWNlY2xhd18xLjcuMjNfeDY0LXNldHVwLmV4ZQowRUdDYnNzOUJoVTF0ek1nLzVjaWJzOXlPamVNZ3hDL1FmQ1lGYVJUZVhQbXpzV01ZakRxZEVmZVF3Qlg3Vk9nbVcrVmxGRXI2MWVLTnZ6MEhOb2ZEZz09Cg==",
+      "url": "https://github.com/ice511/iceclaw-releases/releases/latest/download/Iceclaw_1.7.23_x64-setup.exe"
+    }
+  }
+}
