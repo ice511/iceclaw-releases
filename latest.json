@@ -1,11 +1,11 @@
 {
-  "version": "1.7.34",
-  "notes": "桌面端 v1.7.34：修复版本显示链路（Rust get_app_version 命令读 CARGO_PKG_VERSION 取代失效的 Tauri API，BUNDLE_VERSION 同步打包；设置页/绿泡/头像统一显示真实版本，不再滞后 v1.7.30）+ 绿泡点击弹更新框（服务端 OTA 优先直接弹确认框，GitHub updater 兜底，失败明确提示不再静默；更新框支持手动下载安装包按钮）。",
-  "pub_date": "2026-10-02T14:00:00Z",
+  "version": "1.7.35",
+  "notes": "桌面端 v1.7.35：修复设置页 React #31 崩溃（C 盘构建副本 SettingsPage 未同步导致 Promise 渲染崩溃）+ 开箱即用智能自动（无用户显式切换标记时强制 auto 本地优先，不再默认云端豆包/DeepSeek，杜绝历史 cloud 残留）+ 版本显示/检查更新/绿泡弹窗链路保持 v1.7.34 修复。本地推理引擎 llama-server 参数验证通过（--ctx-size），auto 模式 GGUF 优先 llama.cpp 直跑。",
+  "pub_date": "2026-10-02T23:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0FkOGJuRk9rRXY2Q09tRTJGMFZxTlFMOXN5cTBoWWYyb2U3cFRGcjRHbThPQVZDTXZ2YlZHbFVJNXY4eG1oU0dwbVRLUEJEQ0RwWWI4aFZsR3VhTmFaT1dnbmFIVkFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwOTQ3MzMzCWZpbGU6SWNlY2xhd18xLjcuMzRfeDY0LXNldHVwLmV4ZQpXamxpcFo5a2ovc0VWQTRzRlExSndyeWg4K0xFNWZFc3Rvb1hZcXFybWEzRytaVTFuRHNGazlPM1NZSElQajc4OG9zcW5scGRuWGt1eERrSEQ0VTBCQT09Cg==",
-      "url": "https://github.com/ice511/iceclaw-releases/releases/download/v1.7.34/Iceclaw_1.7.34_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0FkOGJuRk9rRWxOTCtxNkFrOWRhWUVkaytZTWw5bktSck5jMGZOQnFvOFVmTEp5RnFNUXhnRjYyWW4vNm1udEpKVEUzNzRaRnNYMjlpNUFuNHZ3ZEtPMDgvaUtYZFFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwOTU0NDA5CWZpbGU6SWNlY2xhd18xLjcuMzVfeDY0LXNldHVwLmV4ZQpQU21aRWd5SEdZUmp4Ykd1Zmt0U3ZVRE4xL1ltNDB6ejdmOUptVk1QL3cwVkY5dW80Vm1BUmRXbTB5QVh2V3haaWFNRVZraXlMMXRLcWFyUjVkdmpDZz09Cg==",
+      "url": "https://github.com/ice511/iceclaw-releases/releases/download/v1.7.35/Iceclaw_1.7.35_x64-setup.exe"
     }
   }
 }
