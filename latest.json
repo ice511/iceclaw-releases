@@ -1,11 +1,11 @@
 {
-  "version": "1.7.32",
-  "notes": "桌面端 v1.7.32：修复 GGUF 占位文件误判（<1MB 视为损坏残留，扫描/下载/路由三层过滤，自动重新下载）+ 完整开箱即用闭环（auto 本地无模型自动下载最小 GGUF→llama.cpp 直跑，下载带进度条）+ 能力不足确认（14B+ 硬件带不动→弹窗可选云端/授权粘贴密钥自动匹配并二次确认）",
-  "pub_date": "2026-10-02T11:30:00Z",
+  "version": "1.7.33",
+  "notes": "桌面端 v1.7.33：修复本地推理网络异常根因（llama-server 端口与内置网关 51982 冲突 → 统一固定 8080 与网关 OpenAI 后端对齐，/completion 不再 404）+ GGUF 开箱即用闭环（auto 无本地模型自动下载最小模型→llama.cpp 直跑，无需装 Ollama）+ 能力不足确认（14B+ 硬件带不动→弹窗可选云端/授权粘贴密钥自动匹配并二次确认）。本地实测：qwen2.5-1.5b GGUF 下载 104s，llama.cpp 回答 1+1=2，网关流式输出正常。",
+  "pub_date": "2026-10-02T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0FkOGJuRk9rRWt5a1N5Z0k3MXlHL0o0UWZsS2pxdFlabU9NTHlxeHF6NHV2emRHZEJEWG9IUkQ4a3lQMWhaVnkxOXJRRi85Z1pPVW82eHJCcU9hU0xISWNLcTd1UGdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwOTAyNzcyCWZpbGU6SWNlY2xhd18xLjcuMzJfeDY0LXNldHVwLmV4ZQpaYjBjRi9QRVVaaDJua3NiR0Yrc0pWWHIvM3RTUUMwdWZMd2V2SG82Vm5tM2RsSW1rUk5hN09tRVUzOTBMRlVTalpOeFdQSXp2RXNObnlxb0JBMk5Cdz09Cg==",
-      "url": "https://github.com/ice511/iceclaw-releases/releases/download/v1.7.32/Iceclaw_1.7.32_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0FkOGJuRk9rRXBmQk03YUczdDRYbnZrN1RLN3FlekkzK0ZwUWVJVkFmYjJJWmwzUmJuQjNpN29pb1g5RWRHc0M1Q3FFK0JBcVZKU09oQUZhTE03QStINVgraE1lOUEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwOTIwMDU3CWZpbGU6SWNlY2xhd18xLjcuMzNfeDY0LXNldHVwLmV4ZQo3MEdiWWtaYlFYZXVaL0s3Q2l2ZjZtZEhZQzZmWndqQS94UC9wRHF3d0gyQlNSbERCdjZidWpEQURVSUptcVU3bzZVcjVSZXcvMmN2YlJrQ2ZaNGtEdz09Cg==",
+      "url": "https://github.com/ice511/iceclaw-releases/releases/download/v1.7.33/Iceclaw_1.7.33_x64-setup.exe"
     }
   }
 }
