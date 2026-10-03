@@ -1,11 +1,11 @@
 {
-  "version": "1.7.36",
-  "notes": "桌面端 v1.7.36：修复设置页 React #31 崩溃（C 盘构建副本 SettingsPage 未同步导致 Promise 渲染崩溃）+ 开箱即用智能自动（无用户显式切换标记时强制 auto 本地优先，不再默认云端豆包/DeepSeek，杜绝历史 cloud 残留）+ 版本显示/检查更新/绿泡弹窗链路保持 v1.7.34 修复。本地推理引擎 llama-server 参数验证通过（--ctx-size），auto 模式 GGUF 优先 llama.cpp 直跑。",
-  "pub_date": "2026-10-03T00:30:00Z",
+  "version": "1.7.40",
+  "notes": "桌面端 v1.7.40：修复①点击对话时牛马头像/名称错位（点击对话条目即同步切换对应牛马）②发送按钮点击无效（按钮在输入区右下角操作栏，点按即发）③AI 回复长时间滚动闪屏（推理长度 2048→512，问答即答即停）④GGUF 池为空时默认路径兜底（引擎已运行直接复用，保持开箱即用本地推理闭环）。",
+  "pub_date": "2026-10-04T00:40:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0FkOGJuRk9rRW8yZzJUSTdocUpVQVZQU20xVDVYZG9UK3pzSW1ORzRhb0M1M0d2TEhqVWdNKzdaT1d1WmV6VDhSZm5aZmlVMXVlU1Rpc0R1QzRiTnhXM1hONWVRUVFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwOTU3NTA4CWZpbGU6SWNlY2xhd18xLjcuMzZfeDY0LXNldHVwLmV4ZQpkMHR0T0hIK1FsampYRFhmL3dZNmM3bXdmVHhMVFpBQSt3Ty9pcCs5WDVMaGgrd2VVOHhxMzlUT1FyejFpT3VNOHpkZk9GLzh0K2ZSeGl4ZnUyQ3NCZz09Cg==",
-      "url": "https://github.com/ice511/iceclaw-releases/releases/download/v1.7.36/Iceclaw_1.7.36_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0FkOGJuRk9rRW1hYVpZbGRHQ1VpRVo1c1JtTi9aWHN1OUtJeGJEcXJ0emNjNnQzTUFSWUd5OElGT1dGMXA1TmJ0d2REU0RsakVrZ2MyL2x1S2IwUmp3RTJiWjRCVndNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMDQ1MjU5CWZpbGU6SWNlY2xhd18xLjcuNDBfeDY0LXNldHVwLmV4ZQp5NVhoRERyQ0oxWFk5OCsrblpudGQzTWFNbUFGV1ZSL25BaGVwMWhUWFFFaXBFVTRmV1JnanQxTlkxeUxqZ29Id09xOGxXRVljUXZ2TkloanhyMHlBUT09Cg==",
+      "url": "https://github.com/ice511/iceclaw-releases/releases/download/v1.7.40/Iceclaw_1.7.40_x64-setup.exe"
     }
   }
 }
