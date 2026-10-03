@@ -1,11 +1,11 @@
 {
-  "version": "1.7.41",
-  "notes": "桌面端 v1.7.41：修复 v1.7.40 启动崩溃（tauri.conf plugins.shell.scope 非法字段已移除，spawn 权限由 capabilities 提供）。包含 v1.7.40 全部修复：点击对话牛马头像同步、发送按钮点击有效、推理长度 2048→512（问答即答即停）、GGUF 池空时默认路径兜底（开箱即用本地推理）。",
-  "pub_date": "2026-10-04T01:10:00Z",
+  "version": "1.7.42",
+  "notes": "桌面端 v1.7.42：①修复启动崩溃——Ctrl+Alt+F 悬浮球快捷键若被其他程序占用会导致插件初始化 panic，已改为 build 后手动注册、冲突仅告警不阻塞启动；②悬浮球窗口默认位置从屏幕右下角改为右侧中部（不再盖住输入区发送/语音按钮）；③悬浮球透明区域点击穿透——平时鼠标事件直接穿透不挡主窗口，悬停球体/打开面板才拦截（打包版发送按钮点击无效的根因修复）；④保留 1.7.41 全部修复（头像同步/发送按钮/GGUF 开箱即用本地推理/推理长度 512）。",
+  "pub_date": "2026-10-04T03:20:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0FkOGJuRk9rRW1KMDZyL0x1dFdFamNla1NCVithTU85c1g1SWpjdGo4RFJsdnZIMkxxbStFVnBDWnhXYXpHa2QrZm1IK3ZRbFkvTHp6WUxVMnNTa0d3YzNXSkVWbEFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMDQ2NTM0CWZpbGU6SWNlY2xhd18xLjcuNDFfeDY0LXNldHVwLmV4ZQp6VnZBYUZQTHlJSHZxOUNWR0NYVytpKzN0M0RUQjcwVVE0YllyanR5Y1BuY3pueTBVaXlBeGpFSWtHOXdDTFpzZGQ0MWJld2E3cEVHVmtsaTlnRFhDQT09Cg==",
-      "url": "https://github.com/ice511/iceclaw-releases/releases/download/v1.7.41/Iceclaw_1.7.41_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0FkOGJuRk9rRXVFUjhjcFRwc2pxVG9ORko2L0ZqbkZ5bnZYTlVIZkVzRlc2c1RRS0g2bTBXM0JwWExQODZRR3ZoVHJuVVN5d3hWRkp0MVlHR2lSNHhCUVRXWWR2alFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMDU0MzY2CWZpbGU6SWNlY2xhd18xLjcuNDJfeDY0LXNldHVwLmV4ZQpEWk9uUnNJd0FoN2dGU1NVUlVqQ1BpOU95VzJRMWZDTEpqRytEVWxYUnNXOXdKQVlBQ1hhOC8rQVNIZEpIZGlCTm5uVFpsU2hwZ2RDTEVFZ1VvcWRCdz09Cg==",
+      "url": "https://github.com/ice511/iceclaw-releases/releases/download/v1.7.42/Iceclaw_1.7.42_x64-setup.exe"
     }
   }
 }
