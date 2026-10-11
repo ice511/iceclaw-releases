@@ -1,11 +1,1 @@
-{
-  "version": "1.7.43",
-  "notes": "桌面端 v1.7.43：①修复悬浮球整窗点击穿透导致球体卡死不可拖动/点击——移除窗口级穿透，恢复可交互，默认位置右侧中部不再遮挡输入区；②顶部头像/标题始终跟随当前对话所属牛马（打开、切换对话、恢复对话三条路径全部同步，杜绝头像错位）；③启动自动恢复上次选中的牛马与对话，不再固定回主控；④本地推理链路实测通过（llama-server + 网关 SSE 流式正常）。",
-  "pub_date": "2026-10-04T10:29:34Z",
-  "platforms": {
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0FkOGJuRk9rRWw1SzR6WTgyQnI4SkRMTWpIZzZsZC9hSFV4clZQS0dDczdWbFkxZkJZVXVzcHF3ODJWdXNkbUNyNnJEU2VmNW56MEg4REM4Z1llUmtTZUhtU1gvSlFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMTA5NDkzCWZpbGU6SWNlY2xhd18xLjcuNDNfeDY0LXNldHVwLmV4ZQphdUxuU3VVc1FBcjRWbTJFcm5Vck9PMkdZenpNbVVRaEU5U294UjlGTXZCUnJOdHh3N25XN0NWQk9MQmZKT2Ira1J6MCsyRmhQUjBqbDE0b2lQbDhCQT09Cg==",
-      "url": "https://github.com/ice511/iceclaw-releases/releases/download/v1.7.43/Iceclaw_1.7.43_x64-setup.exe"
-    }
-  }
-}
+{"version": "1.7.52", "notes": "P2 闭环 v1.7.52：服务端三期双端接入（公告横幅/功能开关/数据统计）+ Agent 全链路（P0-1 自主规划、P0-2 人在环、P1-3 技能注册、P1-4 双层记忆、P2-5 沙箱、P2-6 本地索引、P2-7 多Agent+定时）", "pub_date": "2026-10-11T06:00:00Z", "platforms": {"windows-x86_64": {"signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0FkOGJuRk9rRXMxQ2tsL2NnYnJ4MlQvU1NJR1JuMEJDb241SlpwQU5nWkRWbHhlL2ZZNDluTWxtbG9mZDR0TllMQmU0emdVSHdYNXppQVptc3l5T0tzR0FGaUFkTVFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNzI2NDg0CWZpbGU6SWNlY2xhd18xLjcuNTJfeDY0LXNldHVwLmV4ZQpxaFJ6OUhvcTRHeTY5S0lDTVN6WjVReG9LdnVrREVCSDQrU3VHdTh6all3TFYrMFVLTWZZTzFIcGNFVjVWREpLbUErdTczdmY5SU5pS0VwR3Izb3BCUT09Cg==", "url": "https://github.com/ice511/iceclaw-releases/releases/download/v1.7.52/Iceclaw_1.7.52_x64-setup.exe"}}, "url": "https://github.com/ice511/iceclaw-releases/releases/download/v1.7.52/Iceclaw_1.7.52_x64-setup.exe"}
