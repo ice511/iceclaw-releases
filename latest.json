@@ -1,1 +1,12 @@
-{"version": "1.7.52", "notes": "P2 闭环 v1.7.52：服务端三期双端接入（公告横幅/功能开关/数据统计）+ Agent 全链路（P0-1 自主规划、P0-2 人在环、P1-3 技能注册、P1-4 双层记忆、P2-5 沙箱、P2-6 本地索引、P2-7 多Agent+定时）", "pub_date": "2026-10-11T06:00:00Z", "platforms": {"windows-x86_64": {"signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0FkOGJuRk9rRXMxQ2tsL2NnYnJ4MlQvU1NJR1JuMEJDb241SlpwQU5nWkRWbHhlL2ZZNDluTWxtbG9mZDR0TllMQmU0emdVSHdYNXppQVptc3l5T0tzR0FGaUFkTVFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNzI2NDg0CWZpbGU6SWNlY2xhd18xLjcuNTJfeDY0LXNldHVwLmV4ZQpxaFJ6OUhvcTRHeTY5S0lDTVN6WjVReG9LdnVrREVCSDQrU3VHdTh6all3TFYrMFVLTWZZTzFIcGNFVjVWREpLbUErdTczdmY5SU5pS0VwR3Izb3BCUT09Cg==", "url": "https://github.com/ice511/iceclaw-releases/releases/download/v1.7.52/Iceclaw_1.7.52_x64-setup.exe"}}, "url": "https://github.com/ice511/iceclaw-releases/releases/download/v1.7.52/Iceclaw_1.7.52_x64-setup.exe"}
+{
+  "version": "1.7.60",
+  "notes": "P2 闭环：Agent E盘建项目真实落盘 + 引擎并发锁修复 + 自动加载固定8080",
+  "pub_date": "2026-10-12T08:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "",
+      "url": "https://github.com/ice511/iceclaw-releases/releases/download/v1.7.60/Iceclaw_1.7.60_x64-setup.exe"
+    }
+  },
+  "url": "https://github.com/ice511/iceclaw-releases/releases/download/v1.7.60/Iceclaw_1.7.60_x64-setup.exe"
+}
