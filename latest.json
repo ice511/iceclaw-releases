@@ -4,7 +4,7 @@
   "pub_date": "2026-10-12T08:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "",
+      "signature": "﻿dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0FkOGJuRk9rRXZaa3R3M2JPU2t6WkIwVG41SU9ENkRLOXpsZU8vUTR3a0xIbS9EVFY1SjhtV2dlbDBFMFIzWmRBNmdYMUw2WW5IVkN6OURVZTZYK212T3lrRSt1YlE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxODA5MTA4CWZpbGU6SWNlY2xhd18xLjcuNjBfeDY0LXNldHVwLmV4ZQpXQTYzd2RaSE1NN0daRnpmSGdBVnFSTkJmczhVK2xkZFdHaXJGS09mUzFQWUhTMlJ4UGRFM0g4eWczZ2x1KzAvOWFPbzNHcW5TN3V5bFpWWllKeXNEUT09Cg==",
       "url": "https://github.com/ice511/iceclaw-releases/releases/download/v1.7.60/Iceclaw_1.7.60_x64-setup.exe"
     }
   },
