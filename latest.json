@@ -1,12 +1,11 @@
 {
-  "version": "1.7.68",
-  "notes": "P2 闭环：Agent E盘建项目真实落盘 + 引擎并发锁修复 + 自动加载固定8080",
-  "pub_date": "2026-10-12T08:00:00Z",
+  "version": "1.7.69",
+  "notes": "桌面端 v1.7.69：修复点击输入框下方模型选择按钮报错 TypeError（根因：setModelDropdownTab 与异步刷新模型列表被 JS 自动分号插入合并成连续调用，压缩后表现为 xe(mode)(async()=>{}) 非函数调用，已加显式分号修复，实测点击不再报错）；模型下拉「智能自动/本地/云端」三页签独立不混页，本地页显示真实 GGUF 模型列表（目录自动扫描回填），云端页含添加自定义模型入口；朗读语音支持多音色选择并持久化。",
+  "pub_date": "2026-10-14T07:21:02Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0FkOGJuRk9rRW1PMTgyQU9PUGtvNmdxUFFVZVp0V3QyZTlpclE4MkVqaEtSR1MwUG5MQzF3Q2wxNk5ZazFPZlhWWlNtbXc2OTY3OGo4Y3hleGt3Z1M2dGRiWk5hTWdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxOTU4MjU4CWZpbGU6SWNlY2xhd18xLjcuNjhfeDY0LXNldHVwLmV4ZQpJcDBjUGxMY0NBdFRsR1NSSFVTYjV5aVRlTURXWUJLWXVaMFZXbUtYK2F5eTc1cGp6QWZNQ1ZTL3kzdzRMeVNQMHFXWlhwSTQ1ZTBpUVhYRVAwQTJDQT09Cg==",
-      "url": "http://8.159.147.115:8080/downloads/Iceclaw_1.7.68_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0FkOGJuRk9rRXY5RkN6dUJ2cG91MUQ4R01URmpiTzVNdGU1OTBMd2tDNXFCVWtYMVM3dXAzT3R4UTVwV1MzNW50UktxR3IvVWZlandkRXNMbDNhV0tvSEZjU1prbmdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxOTYyMzc4CWZpbGU6SWNlY2xhd18xLjcuNjlfeDY0LXNldHVwLmV4ZQpVSEptOHZBQmtDZjVsNVZmdGNZUzI2cHJxYm82TEhlREwyNTBUNzNkY1BHRnVwelRZOW01cVVuU3ZzYW00K0pxQ0UzY0MvMUY2V2gvSElycm1FUk1CZz09Cg==",
+      "url": "https://github.com/ice511/iceclaw-releases/releases/download/v1.7.69/Iceclaw_1.7.69_x64-setup.exe"
     }
-  },
-  "url": "http://8.159.147.115:8080/downloads/Iceclaw_1.7.60_x64-setup.exe"
+  }
 }
