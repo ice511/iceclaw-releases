@@ -1,11 +1,11 @@
 {
-  "version": "1.7.65",
+  "version": "1.7.66",
   "notes": "P2 闭环：Agent E盘建项目真实落盘 + 引擎并发锁修复 + 自动加载固定8080",
   "pub_date": "2026-10-12T08:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0FkOGJuRk9rRWpPTHRuano4N2hiMDNpbnpYRGV2ancvUnZwV1hBK0pHR0xtZVNkREJNU2lPejUxV0VJcGhremhSKzQvakNkRWFJM2xOWHc1KzhlakVLVTgvTGZZOFFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxOTEwMDQ1CWZpbGU6SWNlY2xhd18xLjcuNjVfeDY0LXNldHVwLmV4ZQpGZ1FGZkNvakRLdG5XcnhEOWFhK3cvL2F2S0JMa1J0NEIxNkFnTk5lYnEycGx5TGw4WUVob3poaXNRZkdBRTJIR2xvQzJFTlR0dzc0ZjlUUitQdGVEZz09Cg==",
-      "url": "http://8.159.147.115:8080/downloads/Iceclaw_1.7.65_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0FkOGJuRk9rRW1uYXRmNE9pcE93UVZQaFlNS3RHekorSC9lb20rdGVOYW14QlB1cXF0b0R2SU5PMFhwa3h4b2ROVTgzckdqcUZhRUJIZFZSa2lqbHQrMEZNSDN3MGdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxOTQ1Mzk0CWZpbGU6SWNlY2xhd18xLjcuNjZfeDY0LXNldHVwLmV4ZQpNQ1ZtWk5meWVJVWsyWVc5RldRcDJoYzM1djEvMW13WVNRVmJyR0RON0hQNUdKeGR0ek14RlVzQThTUDVFcnhYeFlxcWx1NGVqOTYzV0dIazJ5L3NCUT09Cg==",
+      "url": "http://8.159.147.115:8080/downloads/Iceclaw_1.7.66_x64-setup.exe"
     }
   },
   "url": "http://8.159.147.115:8080/downloads/Iceclaw_1.7.60_x64-setup.exe"
