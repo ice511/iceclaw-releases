@@ -5,7 +5,7 @@
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0FkOGJuRk9rRXBXSU56eEFCRndDTnM4SnB3VmVIRDljY1M2TURpSmF0Y0JYdjZzN0wvL3FBT3FVM0srZjh1bG1oaUpQRWE4Y0Zhdkk4TkVYcmU2bERoNi93clYyT1FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTc3OTc5CWZpbGU6SWNlY2xhd18xLjcuMTgxX3g2NC1zZXR1cC5leGUKRVJDS0tMRDMvdmNDQUVGUUg1TG1DZDdxRG9JM2QzWExDMUpxS09rczNBcmxYa3BDWnY5UG9STE55WVp1SVpVUkJBV09mQy9BZ29SRmlQM2E2bFAzQXc9PQo=",
-      "url": "https://github.com/ice511/iceclaw-releases/releases/download/v1.7.181/Iceclaw_1.7.181_x64-setup.exe"
+      "url": "https://api.iceclaws.cn/downloads/Iceclaw_1.7.181_x64-setup.exe"
     }
   }
 }
