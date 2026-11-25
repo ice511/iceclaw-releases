@@ -1,11 +1,11 @@
 {
-  "version": "1.7.114",
-  "notes": "桌面端 v1.7.114：P0-4 流式事件通道 + 提示词瘦身。sysN 3607→2012（-44.2%）；首卡 dev 6–17 ms、release 冷启 51 ms；步骤事件补 type/durMs/artifact 并透传；修复清理层两个真 bug；三状态锁死修复（看门狗+try/finally+800ms 二次归零）；窗口标题 GBK 乱码修复。",
-  "pub_date": "2026-11-09T07:10:00Z",
+  "version": "1.7.181",
+  "notes": "IceClaw 冰爪 v1.7.181：本地多 GGUF 同时常驻与按模型端口推理；引擎管理支持本机/远程连接、逐个释放与全部释放；内存三档闸门；换载四态图标与消息排队续发；修复模型切换不重载、同模型重复拉起、写文件路径不遵循等问题。",
+  "pub_date": "2026-11-25T03:41:14Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0FkOGJuRk9rRW9sanVDMlZjU1FKT2xxYlFva2xRSEFYbFkrQlZZSWkveTlWS04vNWJhM2pHbTBtVTBxOXFIYnQrYXdqR0E5R3F2QUxiTi91a1R3aVZZYXBqU3dhbndrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTc5MDk1CWZpbGU6SWNlY2xhd18xLjcuMTE0X3g2NC1zZXR1cC5leGUKWDk4K1VMQjFxcFFQeEpScnBTN3h2RzEvTFh0bzNGU1htTUQ2aVJGY1JPbXZHelJ0Y0xweUxMS1RtTFhjV0NxVGZXMEt4Z09LMUpnenNqMVd5WHczREE9PQo=",
-      "url": "https://github.com/ice511/iceclaw-releases/releases/download/v1.7.114/Iceclaw_1.7.114_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0FkOGJuRk9rRXBXSU56eEFCRndDTnM4SnB3VmVIRDljY1M2TURpSmF0Y0JYdjZzN0wvL3FBT3FVM0srZjh1bG1oaUpQRWE4Y0Zhdkk4TkVYcmU2bERoNi93clYyT1FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTc3OTc5CWZpbGU6SWNlY2xhd18xLjcuMTgxX3g2NC1zZXR1cC5leGUKRVJDS0tMRDMvdmNDQUVGUUg1TG1DZDdxRG9JM2QzWExDMUpxS09rczNBcmxYa3BDWnY5UG9STE55WVp1SVpVUkJBV09mQy9BZ29SRmlQM2E2bFAzQXc9PQo=",
+      "url": "https://github.com/ice511/iceclaw-releases/releases/download/v1.7.181/Iceclaw_1.7.181_x64-setup.exe"
     }
   }
 }
