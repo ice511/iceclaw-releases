@@ -1,10 +1,10 @@
 {
   "version": "1.7.181",
   "notes": "IceClaw 冰爪 v1.7.181：本地多 GGUF 同时常驻与按模型端口推理；引擎管理支持本机/远程连接、逐个释放与全部释放；内存三档闸门；换载四态图标与消息排队续发；修复模型切换不重载、同模型重复拉起、写文件路径不遵循等问题。",
-  "pub_date": "2026-11-25T03:41:14Z",
+  "pub_date": "2026-11-25T04:28:19Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0FkOGJuRk9rRXBXSU56eEFCRndDTnM4SnB3VmVIRDljY1M2TURpSmF0Y0JYdjZzN0wvL3FBT3FVM0srZjh1bG1oaUpQRWE4Y0Zhdkk4TkVYcmU2bERoNi93clYyT1FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTc3OTc5CWZpbGU6SWNlY2xhd18xLjcuMTgxX3g2NC1zZXR1cC5leGUKRVJDS0tMRDMvdmNDQUVGUUg1TG1DZDdxRG9JM2QzWExDMUpxS09rczNBcmxYa3BDWnY5UG9STE55WVp1SVpVUkJBV09mQy9BZ29SRmlQM2E2bFAzQXc9PQo=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0FkOGJuRk9rRXJCUkthS1VOSUJZYWlGcnRLenZ6UkYycSt6MkN5amQzTmQ4ZUxDT1ZsQjk2NUNTcnQ5ZTVXS0FYeUllc0VSZjJIUE9GZGlwU1Vvdm9OVFEwVWJPRndnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTgwNjczCWZpbGU6SWNlY2xhd18xLjcuMTgxX3g2NC1zZXR1cC5leGUKcmdDdHFlWmo5Ky9uOWVYTkJHT2tTdldRcDVYUG9iWGkyUi9CZ0hQeCtoRGljcUswaWcxVUtPRmtrSE9tbWFMSmEwYVZFcHpCN2xTRTZkd2YyUkdTQ3c9PQo=",
       "url": "https://api.iceclaws.cn/downloads/Iceclaw_1.7.181_x64-setup.exe"
     }
   }
